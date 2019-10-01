@@ -24,7 +24,7 @@ export default {
       const options = {
         headers: {
           "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
-          "x-rapidapi-key": "10295e5e4emsh2a95687b1ab16e0p1d9795jsn7ec0aff1c4aa"
+          "x-rapidapi-key": "{API_KEY}"
         },
         query: {
           "random": "true"
